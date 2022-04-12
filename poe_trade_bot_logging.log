@@ -1,0 +1,662 @@
+__main__ - WARNING - warning
+__main__ - ERROR - error
+__main__ - CRITICAL - critical
+__main__ - WARNING - warning
+__main__ - ERROR - error
+__main__ - CRITICAL - critical
+2022-04-04 03:00:52,616 - [WARNING]: warning
+2022-04-04 03:00:52,616 - [ERROR]: error
+2022-04-04 03:00:52,616 - [CRITICAL]: critical
+2022-04-04 03:01:17,010 - [WARNING]: warning
+2022-04-04 03:01:17,010 - [ERROR]: error
+2022-04-04 03:01:17,010 - [CRITICAL]: critical
+[33;20m2022-04-04 03:21:43,752 - [WARNING]: warning[0m
+[31;20m2022-04-04 03:21:43,752 - [ERROR]: error[0m
+[31;1m2022-04-04 03:21:43,752 - [CRITICAL]: critical[0m
+[33;20m2022-04-04 03:24:44,154 - [WARNING]: warning[0m
+[31;20m2022-04-04 03:24:44,155 - [ERROR]: error[0m
+[31;1m2022-04-04 03:24:44,155 - [CRITICAL]: critical[0m
+[33;20m2022-04-04 03:28:11,375 - [WARNING]: warning[0m
+[31;20m2022-04-04 03:28:11,375 - [ERROR]: error[0m
+[31;1m2022-04-04 03:28:11,376 - [CRITICAL]: critical[0m
+[33;21m2022-04-04 03:30:18,343 - [WARNING]: warning[0m
+[31;21m2022-04-04 03:30:18,343 - [ERROR]: error[0m
+[31;1m2022-04-04 03:30:18,343 - [CRITICAL]: critical[0m
+[33;21m2022-04-04 03:32:33,711 - [WARNING]: warning[0m
+[31;21m2022-04-04 03:32:33,711 - [ERROR]: error[0m
+[31;1m2022-04-04 03:32:33,711 - [CRITICAL]: critical[0m
+warning
+error
+critical
+[33;21m2022-04-04 03:38:02,188 - [WARNING]: warning</p>
+[31;21m2022-04-04 03:38:02,189 - [ERROR]: error</p>
+[31;1m2022-04-04 03:38:02,189 - [CRITICAL]: critical</p>
+[33;21m2022-04-04 03:39:10,013 - [WARNING]: warning</p>
+<p style="color:#ffff00">2022-04-04 03:39:10,013 - [ERROR]: error</p>
+[31;1m2022-04-04 03:39:10,013 - [CRITICAL]: critical</p>
+2022-04-04 03:45:00,888 - [WARNING]: warning
+2022-04-04 03:45:00,888 - [ERROR]: error
+2022-04-04 03:45:00,888 - [CRITICAL]: critical
+2022-04-04 03:57:27,073 - [WARNING]: warning
+2022-04-04 03:57:27,074 - [ERROR]: error
+2022-04-04 03:57:27,074 - [CRITICAL]: critical
+2022-04-04 03:58:11,397 - [WARNING]: warning
+2022-04-04 03:58:11,397 - [ERROR]: error
+2022-04-04 03:58:11,397 - [CRITICAL]: critical
+2022-04-04 03:59:41,552 - [WARNING]: warning
+2022-04-04 03:59:41,552 - [ERROR]: error
+2022-04-04 03:59:41,552 - [CRITICAL]: critical
+2022-04-04 04:00:09,860 - [WARNING]: warning
+2022-04-04 04:00:09,860 - [ERROR]: error
+2022-04-04 04:00:09,860 - [CRITICAL]: critical
+2022-04-04 04:00:43,736 - [WARNING]: warning
+2022-04-04 04:00:43,736 - [ERROR]: error
+2022-04-04 04:00:43,737 - [CRITICAL]: critical
+2022-04-04 04:01:53,791 - [WARNING]: warning
+2022-04-04 04:01:53,791 - [ERROR]: error
+2022-04-04 04:01:53,791 - [CRITICAL]: critical
+2022-04-04 04:12:47,936 - [CRITICAL]: division by zero
+2022-04-04 04:12:48,941 - [CRITICAL]: division by zero
+2022-04-04 04:12:49,946 - [CRITICAL]: division by zero
+2022-04-04 04:12:50,951 - [CRITICAL]: division by zero
+2022-04-04 04:12:51,956 - [CRITICAL]: division by zero
+2022-04-04 04:12:52,960 - [CRITICAL]: division by zero
+2022-04-04 04:12:53,965 - [CRITICAL]: division by zero
+2022-04-04 04:16:54,794 - [CRITICAL]: division by zeroTraceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 54, in trading_loop
+    f = 1/0
+ZeroDivisionError: division by zero
+
+2022-04-04 04:16:55,799 - [CRITICAL]: division by zeroTraceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 54, in trading_loop
+    f = 1/0
+ZeroDivisionError: division by zero
+
+2022-04-04 04:17:25,747 - [CRITICAL]: division by zero
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 54, in trading_loop
+    f = 1/0
+ZeroDivisionError: division by zero
+
+2022-04-04 04:17:26,751 - [CRITICAL]: division by zero
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 54, in trading_loop
+    f = 1/0
+ZeroDivisionError: division by zero
+
+2022-04-04 04:49:20,084 - [ERROR]: ќшибка в трейд-итерации: division by zero
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 56, in trading_loop
+    f = 1/0
+ZeroDivisionError: division by zero
+
+2022-04-04 04:49:21,088 - [ERROR]: ќшибка в трейд-итерации: division by zero
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 56, in trading_loop
+    f = 1/0
+ZeroDivisionError: division by zero
+
+2022-04-04 04:49:22,092 - [ERROR]: ќшибка в трейд-итерации: division by zero
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 56, in trading_loop
+    f = 1/0
+ZeroDivisionError: division by zero
+
+2022-04-04 07:04:31,673 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (settings.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-04 07:04:52,629 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (settings.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-05 00:01:54,979 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (settings.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-05 00:16:14,436 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (settings.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-05 01:25:18,044 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (settings.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-05 01:26:18,056 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (settings.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-05 01:27:18,067 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (settings.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-05 01:28:18,081 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (settings.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-05 01:29:36,907 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (settings.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-05 01:33:25,506 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (settings.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-05 02:05:32,878 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (settings.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-05 02:12:46,948 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (globals.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-06 03:22:14,357 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (globals.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-06 03:22:52,371 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (globals.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-06 03:23:09,371 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 60 (globals.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-06 06:15:37,202 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-06 06:19:25,045 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-06 06:24:25,054 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-06 06:29:10,064 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-06 06:29:31,990 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую провер€ю снова.
+2022-04-06 06:33:12,987 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 0.3 (len(globals.items)/globals.requests_interval) и пробую провер€ю снова.
+2022-04-06 06:34:55,780 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 13.333333333333334 (len(globals.items)*globals.requests_interval) и пробую провер€ю снова.
+2022-04-06 06:35:09,117 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 13.333333333333334 (len(globals.items)*globals.requests_interval) и пробую провер€ю снова.
+2022-04-06 06:35:27,473 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:35:32,481 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:35:37,491 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:35:42,498 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:35:47,509 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:35:52,517 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:35:57,525 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:02,535 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:07,544 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:12,553 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:17,561 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:22,570 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:27,579 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:32,588 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:37,597 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:42,605 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:47,613 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:52,622 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:36:57,631 - [ERROR]: ќшибка в трейд-итерации: name '_debugging' is not defined
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 143, in trading_loop
+    if _debugging:
+NameError: name '_debugging' is not defined
+
+2022-04-06 06:37:01,922 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-06 07:31:19,184 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-06 07:31:41,750 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-06 07:32:19,783 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-06 07:33:06,199 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-06 07:33:27,446 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-06 07:38:35,135 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-08 02:12:23,053 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 04:19:18,689 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 04:32:26,153 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 04:35:46,802 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 04:44:06,310 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 04:52:19,842 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 04:56:26,392 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 05:03:24,316 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 05:03:37,029 - [ERROR]: ќшибка в трейд-итерации: unsupported operand type(s) for -: 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 159, in trading_loop
+    bot.put_take_from_stash(current_offer_info['quantity'] * current_offer_info['c_price'])
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 61, in put_take_from_stash
+    currency_from_stash(chaos_qty, 'chaos orb')
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 141, in currency_from_stash
+    open_stash(f"currency_from_stash(amount={amount},currency='{currency}')")
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 151, in open_stash
+    eval(func[0])
+  File "<string>", line 1, in <module>
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 114, in currency_from_stash
+    if currency_stash[currency]['stack'] - amount == 0:
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'int'
+
+2022-04-08 05:03:39,330 - [ERROR]: ќшибка в трейд-итерации: unsupported operand type(s) for -: 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 159, in trading_loop
+    bot.put_take_from_stash(current_offer_info['quantity'] * current_offer_info['c_price'])
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 61, in put_take_from_stash
+    currency_from_stash(chaos_qty, 'chaos orb')
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 114, in currency_from_stash
+    if currency_stash[currency]['stack'] - amount == 0:
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'int'
+
+2022-04-08 05:03:40,827 - [ERROR]: ќшибка в трейд-итерации: unsupported operand type(s) for -: 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 159, in trading_loop
+    bot.put_take_from_stash(current_offer_info['quantity'] * current_offer_info['c_price'])
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 61, in put_take_from_stash
+    currency_from_stash(chaos_qty, 'chaos orb')
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 114, in currency_from_stash
+    if currency_stash[currency]['stack'] - amount == 0:
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'int'
+
+2022-04-08 05:03:42,297 - [ERROR]: ќшибка в трейд-итерации: unsupported operand type(s) for -: 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 159, in trading_loop
+    bot.put_take_from_stash(current_offer_info['quantity'] * current_offer_info['c_price'])
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 61, in put_take_from_stash
+    currency_from_stash(chaos_qty, 'chaos orb')
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 114, in currency_from_stash
+    if currency_stash[currency]['stack'] - amount == 0:
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'int'
+
+2022-04-08 05:03:44,079 - [ERROR]: ќшибка в трейд-итерации: unsupported operand type(s) for -: 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 159, in trading_loop
+    bot.put_take_from_stash(current_offer_info['quantity'] * current_offer_info['c_price'])
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 61, in put_take_from_stash
+    currency_from_stash(chaos_qty, 'chaos orb')
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 114, in currency_from_stash
+    if currency_stash[currency]['stack'] - amount == 0:
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'int'
+
+2022-04-08 05:03:44,080 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-08 05:06:58,155 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 05:08:43,418 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 05:11:15,691 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 05:21:25,343 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 05:24:30,650 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-08 05:37:05,613 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 04:16:00,629 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 04:16:23,198 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 04:16:36,321 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 04:16:47,690 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 04:33:46,271 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 04:41:15,965 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 04:41:27,050 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:41:28,331 - [ERROR]: ќшибка в трейд-итерации: [Errno 2] No such file or directory: 'templates\\accept_button.png'
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 176, in trading_loop
+    if not bot.party_accepted(current_offer_info['character_name']):
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 27, in party_accepted
+    elif _invited(username):  # ѕроверить кинули ли пати
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 32, in _invited
+    pyautogui.screenshot(r'templates\accept_button.png', region=(1535, 765, 180, 40))
+  File "C:\kivymd\virt\lib\site-packages\pyscreeze\__init__.py", line 145, in wrapper
+    return wrappedFunction(*args, **kwargs)
+  File "C:\kivymd\virt\lib\site-packages\pyscreeze\__init__.py", line 463, in _screenshot_win32
+    im.save(imageFilename)
+  File "C:\kivymd\virt\lib\site-packages\PIL\Image.py", line 2232, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'templates\\accept_button.png'
+
+2022-04-10 04:41:30,024 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 04:45:21,509 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 04:45:31,809 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:45:33,541 - [ERROR]: ќшибка в трейд-итерации: <lambda>() missing 1 required positional argument: 'm'
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 168, in trading_loop
+    bot.put_take_from_stash(current_offer_info['quantity'] * current_offer_info['c_price'])
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 61, in put_take_from_stash
+    currency_from_stash(chaos_qty, 'chaos orb', math.ceil(exalt_qty/10))
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 128, in currency_from_stash
+    open_stash(lambda m: currency_from_stash(amount, currency, extra_cells))
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 219, in open_stash
+    func()
+TypeError: <lambda>() missing 1 required positional argument: 'm'
+
+2022-04-10 04:45:35,170 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 04:46:42,954 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 04:46:54,036 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:46:56,812 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:48:02,126 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 04:48:41,231 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:48:59,993 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:49:35,170 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 04:49:45,501 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:50:18,972 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 04:50:51,981 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 04:51:02,284 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:51:05,044 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:51:06,238 - [ERROR]: ќшибка в трейд-итерации: list index out of range
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 168, in trading_loop
+    bot.put_take_from_stash(current_offer_info['quantity'] * current_offer_info['c_price'])
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 61, in put_take_from_stash
+    currency_from_stash(chaos_qty, 'chaos orb', math.ceil(exalt_qty/10))
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 128, in currency_from_stash
+    open_stash(lambda: currency_from_stash(amount, currency, extra_cells))
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 219, in open_stash
+    func()
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 128, in <lambda>
+    open_stash(lambda: currency_from_stash(amount, currency, extra_cells))
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 128, in currency_from_stash
+    open_stash(lambda: currency_from_stash(amount, currency, extra_cells))
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 213, in open_stash
+    x, y = xy[0][0] + (globals.templates['stash']['size'][0] / 2), xy[0][1] + (
+IndexError: list index out of range
+
+2022-04-10 04:51:08,831 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:52:25,522 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 04:52:36,594 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:52:37,863 - [ERROR]: ќшибка в трейд-итерации: list index out of range
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 168, in trading_loop
+    bot.put_take_from_stash(current_offer_info['quantity'] * current_offer_info['c_price'])
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 61, in put_take_from_stash
+    currency_from_stash(chaos_qty, 'chaos orb', math.ceil(exalt_qty/10))
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 128, in currency_from_stash
+    open_stash(lambda: currency_from_stash(amount, currency, extra_cells))
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 211, in open_stash
+    x, y = xy[0][0] + (globals.templates['stash']['size'][0] / 2), xy[0][1] + (
+IndexError: list index out of range
+
+2022-04-10 04:52:40,458 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 04:52:41,650 - [ERROR]: ќшибка в трейд-итерации: list index out of range
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 168, in trading_loop
+    bot.put_take_from_stash(current_offer_info['quantity'] * current_offer_info['c_price'])
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 61, in put_take_from_stash
+    currency_from_stash(chaos_qty, 'chaos orb', math.ceil(exalt_qty/10))
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 128, in currency_from_stash
+    open_stash(lambda: currency_from_stash(amount, currency, extra_cells))
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 211, in open_stash
+    x, y = xy[0][0] + (globals.templates['stash']['size'][0] / 2), xy[0][1] + (
+IndexError: list index out of range
+
+2022-04-10 04:52:42,901 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 04:59:11,587 - [CRITICAL]: Ќе нашел стстеш на экране.
+2022-04-10 05:00:23,304 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:00:33,593 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 05:00:48,983 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:00:59,267 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 05:01:00,530 - [CRITICAL]: Ќе нашел стеш на экране.
+2022-04-10 05:02:47,329 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:02:58,850 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 05:03:01,629 - [CRITICAL]: ¬кладка stash не открыта.
+2022-04-10 05:03:51,395 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:04:01,937 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 05:05:28,815 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:05:39,342 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 05:05:49,338 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:06:41,055 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:09:41,538 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:13:46,818 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:13:57,831 - [ERROR]: ќшибка в трейд-итерации: Can't convert object to 'str' for 'filename'
+Traceback (most recent call last):
+  File "D:/PycharmProjects/poe_trade_bot/main.py", line 168, in trading_loop
+    bot.put_take_from_stash(current_offer_info['quantity'] * current_offer_info['c_price'])
+  File "D:\PycharmProjects\poe_trade_bot\bot.py", line 55, in put_take_from_stash
+    currency_put_in()
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 137, in currency_put_in
+    non_empty_cells = get_non_empty_cells(region)
+  File "D:\PycharmProjects\poe_trade_bot\old_bot.py", line 160, in get_non_empty_cells
+    template = cv2.imread(globals.templates['empty_cell'], 0)
+TypeError: Can't convert object to 'str' for 'filename'
+
+2022-04-10 05:13:58,675 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 05:15:14,590 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:17:40,702 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:19:51,273 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:25:13,680 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:26:43,315 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:38:12,927 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:46:58,235 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:47:19,529 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:47:53,750 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:48:24,360 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:49:29,018 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 05:50:31,125 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:50:36,710 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:55:13,988 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:57:59,542 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 05:59:04,081 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 06:00:50,775 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 06:07:08,616 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 06:12:03,490 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 06:14:20,215 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 06:16:06,999 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 06:17:46,899 - [CRITICAL]: „то-то пошло не так во врем€ трейда, скрин: , trade_id: 6a42f82078e28faca1e70b55c20f3e08943cd2c36581efbd6f1775a9fa506cd9. 
+«авершаю трейд-итерацию.
+2022-04-10 06:17:47,792 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 06:23:29,415 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 06:31:17,175 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 06:38:45,219 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 06:40:18,822 - [CRITICAL]: „то-то пошло не так во врем€ трейда, скрин: , trade_id: 6a42f82078e28faca1e70b55c20f3e08943cd2c36581efbd6f1775a9fa506cd9. 
+«авершаю трейд-итерацию.
+2022-04-10 06:40:19,661 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 06:52:59,943 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 06:55:12,785 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 06:55:57,410 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 06:57:32,977 - [CRITICAL]: „то-то пошло не так во врем€ трейда, скрин: , trade_id: 6a42f82078e28faca1e70b55c20f3e08943cd2c36581efbd6f1775a9fa506cd9. 
+«авершаю трейд-итерацию.
+2022-04-10 06:57:35,622 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 07:03:28,008 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 07:04:24,184 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 10:04:52,751 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 10:09:59,088 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 10:11:11,925 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 10:13:23,619 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 10:20:02,241 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 10:41:20,587 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 10:41:53,099 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 10:42:41,195 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 10:48:22,682 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 10:51:58,571 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-10 10:54:51,814 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 11:03:39,541 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 22:28:45,553 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 22:29:58,051 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 22:30:39,524 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-10 22:51:36,224 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 00:42:18,298 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 00:43:27,321 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 00:59:14,742 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 01:00:58,874 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 01:04:18,021 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 01:05:02,639 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 01:12:58,251 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 01:39:26,230 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 01:40:44,445 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 01:48:05,872 - [CRITICAL]: „то-то пошло не так во врем€ трейда, скрин: , trade_id: 3168165168bd2e7dcac7d113334e21126ad60909522637705d5526e54535e516. 
+«авершаю трейд-итерацию.
+2022-04-11 02:35:10,013 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 02:51:53,536 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 02:57:19,175 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 03:02:52,962 - [CRITICAL]: Ёкзальтов: 2, хаосов: 3000. Ёто меньше минимума, выключаюсь.
+2022-04-11 03:04:00,783 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 03:04:22,781 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 03:05:30,062 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 03:05:55,447 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 03:21:11,011 - [CRITICAL]: ¬кладка с курренси не открыта в стеше. «авершаю работу.
+2022-04-11 03:21:43,820 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 03:22:37,917 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 03:28:51,199 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN. Ќужно перезапустить заново. «авершаю работу.
+2022-04-11 03:29:23,226 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 03:29:37,653 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 03:33:24,463 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-11 03:33:49,279 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 03:37:25,708 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 03:37:35,862 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 03:50:33,196 - [CRITICAL]: ¬кладка с курренси не открыта в стеше. «авершаю работу.
+2022-04-11 03:52:44,460 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 03:53:57,937 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 03:54:03,977 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 03:54:19,930 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 04:05:57,003 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 04:06:20,216 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 04:28:34,840 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 04:41:21,057 - [CRITICAL]: ¬кладка с курренси не открыта в стеше. «авершаю работу.
+2022-04-11 04:50:27,106 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 04:50:40,492 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 05:06:44,672 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 05:10:54,755 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-11 05:20:47,532 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-11 06:22:42,018 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 06:29:08,507 - [CRITICAL]: ¬кладка с курренси не открыта в стеше. «авершаю работу.
+2022-04-11 06:29:20,408 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 7.666666666666667 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 06:33:36,914 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-11 07:22:10,083 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 07:27:17,082 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 07:35:31,404 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 07:38:31,520 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 07:39:08,004 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 07:45:01,796 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 07:54:01,696 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 07:54:48,444 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 07:59:49,561 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 08:00:02,488 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 08:03:46,345 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-11 11:05:39,445 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 11:19:44,468 - [CRITICAL]: „то-то пошло не так во врем€ трейда, скрин: images/screenshots/errors/_currency_counting_2022-04-11_11.19.44.png, trade_id: d112ee4314e793b6b8f5648be0f31fd40da133f8d263c36c4ec8d2aa4c2cc1a1. 
+«авершаю трейд-итерацию.
+2022-04-11 11:25:53,973 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-11 11:45:46,449 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 12:05:21,222 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 12:05:48,891 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 12:06:33,139 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 12:16:24,628 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-11 16:24:20,824 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 16:24:33,841 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 16:31:48,391 - [CRITICAL]: „то-то пошло не так во врем€ трейда, скрин: images/screenshots/errors/_currency_counting_2022-04-11_16.31.48.png, trade_id: f31a534e2a99e8d0fdffc418a476e2736d08c6de06501c46baa0b07cfe1a237c. 
+«авершаю трейд-итерацию.
+2022-04-11 16:41:40,447 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 17:05:10,901 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 17:20:38,735 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 17:23:03,515 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 17:27:34,741 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 17:30:57,733 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 17:31:10,842 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 17:47:59,262 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 18:03:15,180 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-11 18:10:00,967 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 18:10:19,246 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 18:16:38,571 - [CRITICAL]: Ќа момент запуска раскладка была не EN. –аскладка сменена на EN, но нужно перезапустить заново. «авершаю работу.
+2022-04-11 18:17:07,572 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 18:24:16,956 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 27.666666666666668 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 23:35:15,161 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-11 23:43:56,593 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-11 23:54:32,899 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 00:00:35,768 - [ERROR]: ќшибка в currency_counting: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "D:\PycharmProjects\poe_trade_bot\poe_trade.py", line 368, in get_offer_by_id
+    offer_info.update({'amount': info_part['listing']['price']['amount']})
+TypeError: 'NoneType' object is not subscriptable
+
+2022-04-12 00:00:35,768 - [ERROR]: {'method': 'psapi', 'indexed': '2022-04-11T21:00:25Z', 'stash': {'name': 'Frag', 'x': 83, 'y': 0}, 'whisper': '@CrispPoPcorn Hi, I would like to buy your Fragment of Shape in Archnemesis (stash tab "Frag"; position: left 84, top 1)', 'account': {'name': 'ManMade10', 'lastCharacterName': 'CrispPoPcorn', 'online': {'league': 'Archnemesis'}, 'language': 'en_US'}, 'price': None}
+2022-04-12 00:43:54,690 - [CRITICAL]: »нфа с поетрейда не актуальна. ∆ду 14.333333333333334 (len(globals.items) * globals.requests_interval + 1) и пробую провер€ю снова.
+2022-04-12 00:47:29,171 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 00:55:24,582 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 01:01:58,285 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 01:08:32,027 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 01:17:49,313 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 01:28:51,719 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 01:36:09,700 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 01:46:50,621 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 01:59:01,044 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 02:05:26,898 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 02:10:48,165 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 02:17:22,354 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 02:22:32,674 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 02:30:17,834 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 02:35:28,097 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 02:40:39,169 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 02:46:20,663 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 02:51:30,863 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 02:57:45,812 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 03:04:48,804 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 03:09:59,139 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 03:15:09,442 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 03:20:19,717 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 03:26:02,033 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 03:31:12,661 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 03:36:22,968 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 03:41:33,256 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 03:46:44,333 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 03:51:54,608 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 03:57:43,624 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 04:03:29,904 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 04:10:12,215 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 04:15:55,247 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 04:21:05,508 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 04:26:49,226 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 04:33:04,208 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 04:38:46,502 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 04:43:56,796 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 04:49:07,090 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 04:54:48,645 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 04:59:58,959 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 05:05:41,310 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 05:11:22,824 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 05:17:05,923 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 05:22:48,325 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 05:28:29,880 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 05:34:53,770 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 05:41:06,194 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 05:46:16,489 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 05:51:26,787 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 05:56:37,881 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 06:01:48,979 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 06:07:00,040 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 06:12:10,330 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 06:17:20,932 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 06:22:32,072 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 06:27:43,158 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 06:32:53,490 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 06:38:04,598 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 06:43:14,878 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 06:48:25,971 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 06:54:07,537 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 07:00:02,388 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 07:06:25,093 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 07:11:36,154 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.
+2022-04-12 07:16:47,231 - [CRITICAL]: —писок офферов с поетрейда пустой. ∆ду 300 (globals.poetrade_info_update_frequency) и пробую снова.

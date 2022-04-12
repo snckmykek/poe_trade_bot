@@ -1,0 +1,62 @@
+{
+    "debugging": false,
+    "bot_name": "КВДТ_Тётя",
+    "logs_path": "C:/Program Files (x86)/Grinding Gear Games/Path of Exile/logs/Client.txt",
+    "POESESSID": "86df337a72bca4d866865c0fd76e6bc4",
+    "tesseract_exe_path": "C:/Program Files/Tesseract-OCR/tesseract.exe",
+    "testing_usernames": [
+		"КВДТ_Тётя",
+		"чифтейн"
+		],
+	"exalt_minimum": 3,
+	"chaos_minimum": 500,
+	
+	"pause_hotkey": "f12",
+	"close_hotkey": "ctrl + f12",
+	"close_after_trade_hotkey": "ctrl + shift + f12",
+	
+	"invite_waiting_time": 30,
+	"invite_waiting_time": 30,
+	"poetrade_info_update_frequency": 300,
+	"trade_waiting_time": 120,
+	"qty_ignores": 10,
+	
+	"items": [
+		{
+			"name": "fragment-of-terror",
+			"bulk_price": 30
+		},
+		{
+			"name": "fragment-of-emptiness",
+			"bulk_price": 30
+		},
+		{
+			"name": "fragment-of-shape",
+			"bulk_price": 86
+		},
+		{
+			"name": "fragment-of-knowledge",
+			"bulk_price": 86
+		}
+
+	],
+	
+	"templates": {
+		"accept_button": {"image": "images/templates/accept_button.png", "size": [180, 40]},
+		"chaos orb": {"image": "images/templates/chaos orb.png", "size": [50, 31]},
+		"chaos_orb_in_stash_tab": {"image": "images/templates/chaos_orb_in_stash_tab.png", "size": [40, 30]},
+		"close_tab": {"image": "images/templates/close_tab.png", "size": [30, 30]},
+		"empty_cell": {"image": "images/templates/empty_cell.png", "size": [48, 47]},
+		"exalted orb": {"image": "images/templates/xalted orb.png", "size": [50, 32]},
+		"inventory_tab": {"image": "images/templates/inventory_tab.png", "size": [215, 75]},
+		"stash_tab": {"image": "images/templates/stash_tab.png", "size": [220, 70]},
+		"stash": {"image": "images/templates/stash.png", "size": [70, 22]},
+		"trade_tab": {"image": "images/templates/rade_tab.png", "size": [180, 56]},
+
+		"Fragment of Terror": {"image": "images/templates/Fragment of Terror.png", "size": [50, 30]},
+		"Fragment of Emptiness": {"image": "images/templates/Fragment of Emptiness.png", "size": [50, 30]},
+		"Fragment of Shape": {"image": "images/templates/Fragment of Shape.png", "size": [50, 30]},
+		"Fragment of Knowledge": {"image": "images/emplates/Fragment of Knowledge.png", "size": [50, 30]}
+	}
+
+}

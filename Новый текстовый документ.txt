@@ -1,0 +1,2 @@
+cd D:\PycharmProjects\poe_trade_bot
+pyinstaller --paths=D:\PycharmProjects\venv\Scripts main.py
